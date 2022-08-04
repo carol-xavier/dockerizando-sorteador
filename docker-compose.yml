@@ -20,4 +20,4 @@ services:
       - .env
 
 volumes:
-  pg: # volume para os postgres
+  pg: 
